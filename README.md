@@ -1,4 +1,4 @@
-# SmartFlood V3.2
+# SmartFlood V4.2
 
 SmartFlood V3.2 separates the original full-stack SmartFlood application into a collaborator-friendly frontend and backend-owned API services while preserving the existing UI, endpoint paths, database usage, and AI flow.
 
